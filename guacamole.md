@@ -6,4 +6,3 @@
 * salt
 * tomato
 ## Instructions
-* microwave the avocado
