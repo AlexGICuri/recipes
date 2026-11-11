@@ -5,4 +5,5 @@
 * limes
 * salt
 * tomato
+chilli
 ## Instructions
