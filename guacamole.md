@@ -2,6 +2,8 @@
 
 ## Ingredients
 * avocado
-* lemon
+* lime
 * salt
+* tomato
 ## Instructions
+* microwave the avocado
